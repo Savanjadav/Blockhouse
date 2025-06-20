@@ -1,0 +1,10 @@
+# Data files
+l1_day.csv
+*.pdf
+
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+
