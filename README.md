@@ -1,5 +1,7 @@
 # Blockhouse Quant Developer Work Trial
 
+**Video Walkthrough:** [Link to Your Video Here](https://drive.google.com/file/d/1Sz-HfucYSHk2w6psRZA4b-l-qb19LVO0/view?usp=drive_link)
+
 ## Deliverables
 - `kafka_producer.py`: Streams l1_day.csv to Kafka
 - `backtest.py`: Consumes stream, applies allocator logic

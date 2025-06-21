@@ -244,5 +244,9 @@ def main():
     }
     print(json.dumps(summary, indent=2))
 
+    # Save to output.json
+    with open("output.json", "w") as f:
+        json.dump(summary, f, indent=2)
+
 if __name__ == '__main__':
     main() 
